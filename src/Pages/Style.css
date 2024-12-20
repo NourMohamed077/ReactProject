@@ -1,0 +1,10 @@
+.card{
+    transition: 500ms;
+    cursor: pointer;
+}
+.card:hover{
+    transform: scale(1.1);
+}  
+/* 
+https://ajax.systems/
+https://simplisafe.com/ */
